@@ -9,4 +9,4 @@ This repository contains the R code and data file I used for my dissertation.
 
 "regressions" contains the code used to create all the survey-weighted logistic regressions for both stages.
 
-"bsa2024.sav" is the BSA 2024 dataset I based my analysis off of.
+"bsa2024.sav" contains the BSA 2024 survey data I based my analysis off of.
